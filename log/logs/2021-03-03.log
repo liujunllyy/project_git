@@ -1,0 +1,21 @@
+2021-03-03 10:47:08,030 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 10:47:28,616 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 10:58:11,643 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 10:58:29,501 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 11:00:36,727 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 11:00:52,589 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 11:02:29,913 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 11:02:48,851 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 11:09:09,447 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 11:09:29,381 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 11:12:30,784 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 11:12:48,362 unitest_t.py---> setUp 27: INFO------> this is chrome
+2021-03-03 11:31:40,805 user_log.py---> console 30: INFO------> this is chrome
+2021-03-03 11:31:56,944 user_log.py---> console 30: INFO------> this is chrome
+2021-03-03 13:07:32,631 user_log.py---> 30: INFO------> this is chrome
+2021-03-03 13:07:47,842 user_log.py---> 30: INFO------> this is chrome
+2021-03-03 13:15:55,966 user_log.py---> 30: INFO------> this is chrome
+2021-03-03 13:16:16,792 user_log.py---> 30: INFO------> this is chrome
+2021-03-03 13:26:07,440 user_log.py---> 30: INFO------> this is chrome
+2021-03-03 13:26:34,407 user_log.py---> 30: INFO------> this is chrome
+2021-03-03 13:26:56,794 user_log.py---> 30: INFO------> this is chrome

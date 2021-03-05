@@ -1,0 +1,4 @@
+as
+2021-03-01 19:12:54,760 user_log.py <module> 11 DEBUG as
+2021-03-01 19:15:31,633 user_log.py---> <module> 11 DEBUG------> as
+2021-03-01 19:16:19,313 user_log.py---> <module> 11: DEBUG------> as
