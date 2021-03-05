@@ -6,6 +6,7 @@ from selenium.webdriver.common.by import By
 from PIL import Image
 import random
 import time
+#123
 
 driver=webdriver.Chrome()
 # driver=webdriver.Edge()
